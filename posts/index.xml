@@ -1,14 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - LoveIt</title>
-        <link>https://example.com/posts/</link>
+        <link>https://dannylee8366.github.io/posts/</link>
         <description>All Posts | LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 05 Nov 2022 19:41:12 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 14 Jan 2023 16:48:25 &#43;0800</lastBuildDate><atom:link href="https://dannylee8366.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Second</title>
+    <link>https://dannylee8366.github.io/second/</link>
+    <pubDate>Sat, 14 Jan 2023 16:48:25 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://dannylee8366.github.io/second/</guid>
+    <description><![CDATA[This is the second page ]]></description>
+</item>
+<item>
     <title>First_blog</title>
-    <link>https://example.com/1/</link>
+    <link>https://dannylee8366.github.io/1/</link>
     <pubDate>Sat, 05 Nov 2022 19:41:12 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://example.com/1/</guid>
+    <guid>https://dannylee8366.github.io/1/</guid>
     <description><![CDATA[this is my first blog]]></description>
 </item>
 </channel>
