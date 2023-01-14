@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - DannyLee&#39;s Blog</title>
-        <link>https://dannylee8366.github.io/yeping/tags/</link>
+        <link>https://dannylee8366.github.io/tags/</link>
         <description>Tags - Tag - DannyLee&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>lbsunny007@gmail.com (Danny Lee)</managingEditor>
-            <webMaster>lbsunny007@gmail.com (Danny Lee)</webMaster><atom:link href="https://dannylee8366.github.io/yeping/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>lbsunny007@gmail.com (Danny Lee)</webMaster><atom:link href="https://dannylee8366.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
