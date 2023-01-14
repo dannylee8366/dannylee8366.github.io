@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoveIt</title>
+        <link>https://example.com/</link>
+        <description>Hugo theme - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 05 Nov 2022 19:41:12 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_blog</title>
+    <link>https://example.com/1/</link>
+    <pubDate>Sat, 05 Nov 2022 19:41:12 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://example.com/1/</guid>
+    <description><![CDATA[this is my first blog]]></description>
+</item>
+</channel>
+</rss>
