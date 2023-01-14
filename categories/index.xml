@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - DannyLee&#39;s Blog</title>
-        <link>https://dannylee8366.github.io/categories/</link>
-        <description>Categories - Category - DannyLee&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>lbsunny007@gmail.com (Danny Lee)</managingEditor>
-            <webMaster>lbsunny007@gmail.com (Danny Lee)</webMaster><atom:link href="https://dannylee8366.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
-</rss>
